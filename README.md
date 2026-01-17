@@ -1,9 +1,15 @@
-AIMthe goal of this experiment is to get comfortable with the core building blocks of python, specifically handling variables, performing math, taking user input, and using logic to solve simple problems.
+AIM
+
+the goal of this experiment is to get comfortable with the core building blocks of python, specifically handling variables, performing math, taking user input, and using logic to solve simple problems.
+
 TOOLS
+
 software: google colab
 language: python 3
 modules: math (used for calculating the area of a circle)
+
 THEORY
+
 1. variables & formatting
 multiple assignment: we can assign values to several variables at once, which keeps the code compact.
 separators: the sep parameter helps us control how items look when printed—like putting each item on a new line.
