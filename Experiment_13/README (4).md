@@ -38,17 +38,20 @@ Convert data types
 Rename columns
 Display updated dataset
 Perform summary analysis
+
 ✅ Advantages of Data Binning and Formatting
 Simplifies complex data
 Improves data readability
 Helps in data analysis
 Reduces noise in data
 Standardizes dataset
+
 ❌ Disadvantages
 Loss of detailed information
 Improper binning may mislead analysis
 Requires careful selection of intervals
 Formatting errors may affect results
+
 🔑 Key Concepts Covered
 Data binning (cut, qcut)
 Labeling categories
@@ -57,6 +60,7 @@ Data type conversion
 Column renaming
 Data transformation
 Summary statistics
+
 📘 THEORY & ALGORITHMS WITH FLOWCHARTS
 🔹 PART 1: Loading Dataset
 🧠 Algorithm
@@ -67,6 +71,7 @@ Store data in DataFrame
 Display dataset
 Check shape and info
 Stop
+
 🔁 Flowchart
 Start
  ↓
@@ -81,7 +86,9 @@ Display Data
 Check Shape & Info
  ↓
 Stop
+
 🔹 PART 2: Data Binning
+
 🧠 Algorithm
 Start
 Select numerical column
@@ -91,6 +98,7 @@ Assign labels
 Add new binned column
 Display dataset
 Stop
+
 🔁 Flowchart
 Start
  ↓
@@ -107,7 +115,9 @@ Create Binned Column
 Display Data
  ↓
 Stop
+
 🔹 PART 3: Data Formatting
+
 🧠 Algorithm
 Start
 Select column
@@ -116,7 +126,9 @@ Convert data types if needed
 Update dataset
 Display result
 Stop
+
 🔁 Flowchart
+
 Start
  ↓
 Select Column
@@ -130,7 +142,9 @@ Update Dataset
 Display Result
  ↓
 Stop
+
 🔹 PART 4: Renaming and Transforming Data
+
 🧠 Algorithm
 Start
 Identify columns to rename
@@ -138,7 +152,9 @@ Apply rename()
 Transform values if required
 Display updated dataset
 Stop
+
 🔁 Flowchart
+
 Start
  ↓
 Select Columns
@@ -150,7 +166,9 @@ Transform Values
 Display Updated Data
  ↓
 Stop
+
 🔹 PART 5: Statistical Summary
+
 🧠 Algorithm
 Start
 Select relevant columns
@@ -158,7 +176,9 @@ Apply mean(), median()
 Use describe()
 Display results
 Stop
+
 🔁 Flowchart
+
 Start
  ↓
 Select Data
